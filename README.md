@@ -1,0 +1,1 @@
+Run START_BULKSENDER.bat file twice first it will configure node and other configuration and second time when click this bat file black window will open and session remains active until it should not be closed.
